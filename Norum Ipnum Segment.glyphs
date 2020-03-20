@@ -1,0 +1,1254 @@
+{
+.appVersion = "1286";
+DisplayStrings = (
+"5",
+"6",
+"7",
+"8",
+"9"
+);
+copyright = "Copyright (c) 2020, IDEO (ideo.com)\012with Reserved Font Name: Norum Ipsum Sans.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide\012development of collaborative font projects, to support the font creation\012efforts of academic and linguistic communities, and to provide a free and\012open framework in which fonts may be shared and improved in partnership\012with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and\012redistributed freely as long as they are not sold by themselves. The\012fonts, including any derivative works, can be bundled, embedded, \012redistributed and/or sold with any software provided that any reserved\012names are not used by derivative works. The fonts and derivatives,\012however, cannot be released under any other type of license. The\012requirement for fonts to remain under this license does not apply\012to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright\012Holder(s) under this license and clearly marked as such. This may\012include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the\012copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as\012distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting,\012or substituting -- in part or in whole -- any of the components of the\012Original Version, by changing formats or by porting the Font Software to a\012new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical\012writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining\012a copy of the Font Software, to use, study, copy, merge, embed, modify,\012redistribute, and sell modified and unmodified copies of the Font\012Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components,\012in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled,\012redistributed and/or sold with any software, provided that each copy\012contains the above copyright notice and this license. These can be\012included either as stand-alone text files, human-readable headers or\012in the appropriate machine-readable metadata fields within text or\012binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font\012Name(s) unless explicit written permission is granted by the corresponding\012Copyright Holder. This restriction only applies to the primary font name as\012presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\012Software shall not be used to promote, endorse or advertise any\012Modified Version, except to acknowledge the contribution(s) of the\012Copyright Holder(s) and the Author(s) or with their explicit written\012permission.\012\0125) The Font Software, modified or unmodified, in part or in whole,\012must be distributed entirely under this license, and must not be\012distributed under any other license. The requirement for fonts to\012remain under this license does not apply to any document created\012using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are\012not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\012EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\012MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\012OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\012COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\012INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\012DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\012FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\012OTHER DEALINGS IN THE FONT SOFTWARE.\012";
+date = "2020-03-13 20:43:01 +0000";
+designer = "David Vondle";
+designerURL = vondle.com;
+familyName = "Norum Ipnum Segment";
+fontMaster = (
+{
+ascender = 800;
+capHeight = 700;
+descender = -200;
+id = "2029B192-813E-46EA-958F-4BCB80662E68";
+xHeight = 500;
+}
+);
+glyphs = (
+{
+glyphname = A;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0041;
+},
+{
+glyphname = B;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0042;
+},
+{
+glyphname = C;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0043;
+},
+{
+glyphname = D;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0044;
+},
+{
+glyphname = E;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0045;
+},
+{
+glyphname = F;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0046;
+},
+{
+glyphname = G;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0047;
+},
+{
+glyphname = H;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0048;
+},
+{
+glyphname = I;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0049;
+},
+{
+glyphname = J;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004A;
+},
+{
+glyphname = K;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004B;
+},
+{
+glyphname = L;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004C;
+},
+{
+glyphname = M;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004D;
+},
+{
+glyphname = N;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004E;
+},
+{
+glyphname = O;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 004F;
+},
+{
+glyphname = P;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0050;
+},
+{
+glyphname = Q;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0051;
+},
+{
+glyphname = R;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0052;
+},
+{
+glyphname = S;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0053;
+},
+{
+glyphname = T;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0054;
+},
+{
+glyphname = U;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0055;
+},
+{
+glyphname = V;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0056;
+},
+{
+glyphname = W;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0057;
+},
+{
+glyphname = X;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0058;
+},
+{
+glyphname = Y;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0059;
+},
+{
+glyphname = Z;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 005A;
+},
+{
+glyphname = a;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0061;
+},
+{
+glyphname = b;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0062;
+},
+{
+glyphname = c;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0063;
+},
+{
+glyphname = d;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0064;
+},
+{
+glyphname = e;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0065;
+},
+{
+glyphname = f;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0066;
+},
+{
+glyphname = g;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0067;
+},
+{
+glyphname = h;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0068;
+},
+{
+glyphname = i;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0069;
+},
+{
+glyphname = j;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006A;
+},
+{
+glyphname = k;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006B;
+},
+{
+glyphname = l;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006C;
+},
+{
+glyphname = m;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006D;
+},
+{
+glyphname = n;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006E;
+},
+{
+glyphname = o;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 006F;
+},
+{
+glyphname = p;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0070;
+},
+{
+glyphname = q;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0071;
+},
+{
+glyphname = r;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0072;
+},
+{
+glyphname = s;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0073;
+},
+{
+glyphname = t;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0074;
+},
+{
+glyphname = u;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0075;
+},
+{
+glyphname = v;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0076;
+},
+{
+glyphname = w;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0077;
+},
+{
+glyphname = x;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0078;
+},
+{
+glyphname = y;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0079;
+},
+{
+glyphname = z;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 007A;
+},
+{
+glyphname = zero;
+lastChange = "2020-03-13 21:16:43 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 357 LINE",
+"109 647 LINE",
+"132 669 LINE",
+"172 626 LINE",
+"154 403 LINE",
+"103 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 700 LINE",
+"494 700 LINE",
+"513 678 LINE",
+"467 635 LINE",
+"184 635 LINE",
+"142 678 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0030;
+},
+{
+glyphname = one;
+lastChange = "2020-03-13 21:16:07 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0031;
+},
+{
+glyphname = two;
+lastChange = "2020-03-13 21:24:15 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0032;
+},
+{
+glyphname = three;
+lastChange = "2020-03-13 21:24:27 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 357 LINE",
+"109 647 LINE",
+"132 669 LINE",
+"172 626 LINE",
+"154 403 LINE",
+"103 357 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0033;
+},
+{
+glyphname = four;
+lastChange = "2020-03-13 21:24:52 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0034;
+},
+{
+glyphname = five;
+lastChange = "2020-03-13 21:25:11 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0035;
+},
+{
+glyphname = six;
+lastChange = "2020-03-13 21:25:25 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0036;
+},
+{
+glyphname = seven;
+lastChange = "2020-03-13 21:25:36 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 700 LINE",
+"494 700 LINE",
+"513 678 LINE",
+"467 635 LINE",
+"184 635 LINE",
+"142 678 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0037;
+},
+{
+glyphname = eight;
+lastChange = "2020-03-13 21:25:50 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 357 LINE",
+"109 647 LINE",
+"132 669 LINE",
+"172 626 LINE",
+"154 403 LINE",
+"103 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0038;
+},
+{
+glyphname = nine;
+lastChange = "2020-03-13 21:25:58 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 341 LINE",
+"491 53 LINE",
+"467 31 LINE",
+"428 74 LINE",
+"447 297 LINE",
+"496 341 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 647 LINE",
+"516 357 LINE",
+"498 357 LINE",
+"456 403 LINE",
+"476 626 LINE",
+"523 669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 53 LINE",
+"81 343 LINE",
+"101 343 LINE",
+"143 297 LINE",
+"125 74 LINE",
+"77 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"167 700 LINE",
+"494 700 LINE",
+"513 678 LINE",
+"467 635 LINE",
+"184 635 LINE",
+"142 678 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 65 LINE",
+"417 65 LINE",
+"456 22 LINE",
+"433 0 LINE",
+"106 0 LINE",
+"86 22 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0039;
+},
+{
+glyphname = period;
+lastChange = "2020-03-13 21:06:08 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"-14 0 OFFCURVE",
+"0 14 OFFCURVE",
+"0 32 CURVE SMOOTH",
+"0 51 OFFCURVE",
+"-14 65 OFFCURVE",
+"-33 65 CURVE SMOOTH",
+"-51 65 OFFCURVE",
+"-65 51 OFFCURVE",
+"-65 32 CURVE SMOOTH",
+"-65 14 OFFCURVE",
+"-51 0 OFFCURVE",
+"-33 0 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 002E;
+},
+{
+glyphname = comma;
+lastChange = "2020-03-13 21:13:36 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"-33 0 OFFCURVE",
+"-27 -18 OFFCURVE",
+"-47 -31 CURVE SMOOTH",
+"-53 -35 OFFCURVE",
+"-53 -39 OFFCURVE",
+"-45 -39 CURVE SMOOTH",
+"-30 -39 OFFCURVE",
+"0 -18 OFFCURVE",
+"0 32 CURVE SMOOTH",
+"0 51 OFFCURVE",
+"-14 65 OFFCURVE",
+"-33 65 CURVE SMOOTH",
+"-51 65 OFFCURVE",
+"-65 51 OFFCURVE",
+"-65 32 CURVE SMOOTH",
+"-65 14 OFFCURVE",
+"-51 0 OFFCURVE",
+"-33 0 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 002C;
+},
+{
+glyphname = hyphen;
+lastChange = "2020-03-13 21:14:14 +0000";
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 382 LINE",
+"150 384 LINE",
+"115 349 LINE",
+"145 316 LINE",
+"448 316 LINE",
+"485 349 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 002D;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = "2029B192-813E-46EA-958F-4BCB80662E68";
+width = 600;
+}
+);
+unicode = 0020;
+}
+);
+manufacturer = IDEO;
+manufacturerURL = ideo.com;
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

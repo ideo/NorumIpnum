@@ -1,0 +1,35 @@
+FONTLOG for the Norum Ipnum font families
+
+This file provides detailed information on the Norum Ipsum Font Software.
+This information should be distributed along with the Norum Ipnum fonts
+and any derivative works.
+
+Basic Font Information
+
+Norum Ipnum is a set of numeral typefaces intended to replace numbers in graphical layouts where boilerplate numerals are needed.
+These replacement numbers are intended to play the role that "Lorum Ipsum" text plays for mocking up copy, that is acting as a visual placeholder without conveying the presence of real numerical data.
+
+Norum Ipnum only supports numerals 0-9 as well as "," "." and "-"
+
+There are currently 3 Norum Ipnum families: Sans, Serif and Segment.
+
+
+ChangeLog
+
+11 March 2020 (Dave Vondle) Norum Ipnum Sans version 1.0
+- Published First Version
+
+20 March 2020 (Dave Vondle) Norum Ipnum Segment version 1.0
+- Published First Version
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Dave Vondle
+E: dvondle@ideo.com
+W: http://IDEO.com
+D: Contributor - Norum Input Sans
